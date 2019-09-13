@@ -60,3 +60,4 @@ C:\Users\micha\Documents\GitHub\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\D
 C:\Users\micha\Documents\GitHub\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug\netcoreapp2.2\VitecProjekt.dll
 C:\Users\micha\Documents\GitHub\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug\netcoreapp2.2\VitecProjekt.pdb
 C:\Users\micha\Documents\GitHub\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug\netcoreapp2.2\VitecProjekt.csproj.CopyComplete
+C:\Users\micha\Documents\GitHub\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug\netcoreapp2.2\Razor\Pages\Register.g.cshtml.cs
