@@ -12949,11 +12949,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micha\\source\\repos\\VitecProjekt\\VitecProjekt\\VitecProjekt.csproj",
+      "projectUniqueName": "C:\\Users\\micha\\Documents\\GitHub\\VitecExamProjekt\\VitecProjekt\\VitecProjekt\\VitecProjekt.csproj",
       "projectName": "VitecProjekt",
-      "projectPath": "C:\\Users\\micha\\source\\repos\\VitecProjekt\\VitecProjekt\\VitecProjekt.csproj",
+      "projectPath": "C:\\Users\\micha\\Documents\\GitHub\\VitecExamProjekt\\VitecProjekt\\VitecProjekt\\VitecProjekt.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micha\\source\\repos\\VitecProjekt\\VitecProjekt\\obj\\",
+      "outputPath": "C:\\Users\\micha\\Documents\\GitHub\\VitecExamProjekt\\VitecProjekt\\VitecProjekt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
