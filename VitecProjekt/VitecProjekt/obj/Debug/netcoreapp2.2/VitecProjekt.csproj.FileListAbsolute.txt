@@ -93,3 +93,8 @@ C:\Users\micha\source\repos\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug
 C:\Users\micha\source\repos\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug\netcoreapp2.2\VitecProjekt.dll
 C:\Users\micha\source\repos\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug\netcoreapp2.2\VitecProjekt.pdb
 C:\Users\micha\source\repos\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug\netcoreapp2.2\VitecProjekt.csproj.CopyComplete
+C:\Users\micha\source\repos\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug\netcoreapp2.2\Razor\Pages\Users\Create.g.cshtml.cs
+C:\Users\micha\source\repos\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug\netcoreapp2.2\Razor\Pages\Users\Delete.g.cshtml.cs
+C:\Users\micha\source\repos\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug\netcoreapp2.2\Razor\Pages\Users\Details.g.cshtml.cs
+C:\Users\micha\source\repos\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug\netcoreapp2.2\Razor\Pages\Users\Edit.g.cshtml.cs
+C:\Users\micha\source\repos\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug\netcoreapp2.2\Razor\Pages\Users\Index.g.cshtml.cs
