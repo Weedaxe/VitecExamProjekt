@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Configuration;
 
 namespace VitecProjekt.Model
 {
@@ -13,5 +15,6 @@ namespace VitecProjekt.Model
         public string LastName { get; set; }
         public string Password { get; set; }
         public string Email { get; set; }
+
     }
 }
