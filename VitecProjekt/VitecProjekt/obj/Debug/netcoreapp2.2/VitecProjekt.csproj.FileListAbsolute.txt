@@ -28,3 +28,8 @@ C:\Users\bakan\OneDrive\Dokumenter\Datamatiker\GitClone\VitecExamProjekt\VitecPr
 C:\Users\bakan\OneDrive\Dokumenter\Datamatiker\GitClone\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug\netcoreapp2.2\VitecProjekt.dll
 C:\Users\bakan\OneDrive\Dokumenter\Datamatiker\GitClone\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug\netcoreapp2.2\VitecProjekt.pdb
 C:\Users\bakan\OneDrive\Dokumenter\Datamatiker\GitClone\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug\netcoreapp2.2\VitecProjekt.csproj.CopyComplete
+C:\Users\bakan\OneDrive\Dokumenter\Datamatiker\GitClone\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug\netcoreapp2.2\Razor\Views\Packages\Create.g.cshtml.cs
+C:\Users\bakan\OneDrive\Dokumenter\Datamatiker\GitClone\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug\netcoreapp2.2\Razor\Views\Packages\Delete.g.cshtml.cs
+C:\Users\bakan\OneDrive\Dokumenter\Datamatiker\GitClone\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug\netcoreapp2.2\Razor\Views\Packages\Details.g.cshtml.cs
+C:\Users\bakan\OneDrive\Dokumenter\Datamatiker\GitClone\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug\netcoreapp2.2\Razor\Views\Packages\Edit.g.cshtml.cs
+C:\Users\bakan\OneDrive\Dokumenter\Datamatiker\GitClone\VitecExamProjekt\VitecProjekt\VitecProjekt\obj\Debug\netcoreapp2.2\Razor\Views\Packages\Index.g.cshtml.cs
